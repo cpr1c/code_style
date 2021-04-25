@@ -3,7 +3,7 @@
 ### Установить плагин **BSL проверки для EDT**. [Страница плагина](https://github.com/DoublesunRUS/ru.capralow.dt.bslls.validator)
 При запуске Расширенной проверки из контекстного меню проекта, в список ошибок добавляются ошибки, которые диагностирует BSL LS. При открытии ошибки открывается модуль с этой ошибкой.
 
-Адрес для установки [](http://capralow.ru/edt/bslls.validator/latest/)
+Адрес для установки [http://capralow.ru/edt/bslls.validator/latest/](http://capralow.ru/edt/bslls.validator/latest/)
 
 **При написании кода устранять ошибки, выдаваемые данным плагином**
 
